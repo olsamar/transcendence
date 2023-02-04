@@ -18,16 +18,17 @@ The goal was to create a project for the mighty Pong contest.
 Users can will play Pong with others. Besides, a real-time chat is provided.
 
 The project requirements were:
-[x] The backend must be written in NestJS.
-[x] The frontend must be written with a TypeScript framework of your choice. We are using VueJS.
-[x] You are free to use any library you want to in this context. However, you must use
+
+- [x] The backend must be written in NestJS.
+- [x] The frontend must be written with a TypeScript framework of your choice. We are using VueJS.
+- [x] You are free to use any library you want to in this context. However, you must use
 the latest stable version of every library or framework used in your project.
-[x] You must use a PostgreSQL database. That’s it, no other database.
-[x] Your website must be a single-page application. The user should be able to use the
+- [x] You must use a PostgreSQL database. That’s it, no other database.
+- [x] Your website must be a single-page application. The user should be able to use the
 Back and Forward buttons of the browser.
-[x] Your website must be compatible with the latest stable up-to-date version of
+- [x] Your website must be compatible with the latest stable up-to-date version of
 Google Chrome, Firefox, and Safari.
-[x]  The user should encounter no unhandled errors and no warnings when browsing the
+- [x]  The user should encounter no unhandled errors and no warnings when browsing the
 website.
 
 
